@@ -14,13 +14,10 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on a reservation web application using **PHP**, **HTML**, **CSS**, and **JavaScript**. It’s a project helping me improve my skills in backend and frontend web development.
+- 🔭 I’m currently working on a reservation web application using **PHP**, **HTML**, **CSS**, and **JavaScript**.
 - 🌱 Right now, I'm diving into **React** to expand my skills in building dynamic and interactive user interfaces.
 - 🤝 I'm interested in open-source contributions in the future but still building up my knowledge to get there!
-- ⚙️ Tech Stack:
-- Languages: `PHP`, `HTML`, `CSS`, `JavaScript`.
-- Frontend Frameworks: Basic knowledge of Vue.js and React (learning)
-- Tools: Git for version control, Visual Studio Code as my main editor
+- ⚙️ Tech Stack: `PHP`, `HTML`, `CSS`, `JavaScript`.
 - 💬 Topics to Chat About: PHP, web development, HTML/CSS design, learning React
 - 🚀 Fun Fact: I have a hedgehog
 
