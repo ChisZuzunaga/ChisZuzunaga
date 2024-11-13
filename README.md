@@ -14,12 +14,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
+- 🔭 I’m currently working on a reservation web application using **PHP**, **HTML**, **CSS**, and **JavaScript**. It’s a project helping me improve my skills in backend and frontend web development.
+- 🌱 Right now, I'm diving into **React** to expand my skills in building dynamic and interactive user interfaces.
+- 🤝 I'm interested in open-source contributions in the future but still building up my knowledge to get there!
+- ⚙️ Tech Stack:
+- Languages: `PHP`, `HTML`, `CSS`, `JavaScript`.
+- Frontend Frameworks: Basic knowledge of Vue.js and React (learning)
+- Tools: Git for version control, Visual Studio Code as my main editor
+- 💬 Topics to Chat About: PHP, web development, HTML/CSS design, learning React
+- 🚀 Fun Fact: I have a hedgehog
 
 </td>
 <td width="50%" align="center">
