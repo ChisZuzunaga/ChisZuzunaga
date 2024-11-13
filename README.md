@@ -146,10 +146,16 @@
 
 <p align="center">
   <a href="https://profile-summary-for-github.herokuapp.com/user/chiszuzunaga" target="_blank">
-    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
   <a href="mailto:ignacioguerratorres@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+    <img align="center" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/ignacio-guerra-torres-409a22337/">
+    <img align="center" width="26px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
   </a> &nbsp;&nbsp;
 <p>
+
+
