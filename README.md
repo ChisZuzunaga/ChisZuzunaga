@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/ZN29QILcbAQAAAAM/cat-pc.gif" height="120px" /
+    <img src="https://media.tenor.com/ZN29QILcbAQAAAAM/cat-pc.gif" height="120px" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
@@ -121,13 +121,16 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chiszuzunaga&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiszuzunaga&theme=chartreuse-dark&show_icons=true&count_private=true" />
+
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chiszuzunaga&theme=chartreuse-dark&hide_border=false" /> 
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=chiszuzunaga&theme=chartreuse-dark" />
+
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiszuzunaga&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiszuzunaga&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=10" />
+
 
   </td>
 </tr>
