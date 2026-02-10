@@ -14,12 +14,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on a reservation web application using **PHP**, **HTML**, **CSS**, and **JavaScript**.
-- 🌱 Right now, I'm diving into **React** to expand my skills in building dynamic and interactive user interfaces.
+- 🔭 I’m currently developing my university thesis project: a conversational AI plush toy designed to stimulate oral language in children through a computer-based system.
+- 🌱 Right now, I’m improving my skills in **schematic design** and **embedded systems**.
 - 🤝 I'm interested in open-source contributions in the future but still building up my knowledge to get there!
-- ⚙️ Tech Stack: `PHP`, `HTML`, `CSS`, `JavaScript`.
-- 💬 Topics to Chat About: PHP, web development, HTML/CSS design, learning React
-- 🚀 Fun Fact: I have a hedgehog
+- ⚙️ Tech Stack: `PHP`, `HTML`, `CSS`, `JavaScript`, `C++`, `TypeScript`, `React`.
+- 🚀 Fun Fact: I like cats 🐈
 
 </td>
 <td width="50%" align="center">
